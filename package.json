@@ -1,0 +1,18 @@
+{
+  "name": "are-3127",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/datastore": "^5.0.3",
+    "@google-cloud/pubsub": "^1.2.0",
+    "axios": "^0.19.1",
+    "uuidv4": "^6.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
